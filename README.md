@@ -2,11 +2,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔍 Looking for Summer 2024 Software Engineer Internship
+- 🔍 Looking for Summer 2025 Software Engineer Internship
 - 🎓 Studying Computer Science and Mathematics at University of Massachusetts Amherst
-- 🌱 Proficient in Backend Development, Databases, Cloud Computing, and Web Development
-- 🤔 Working as Software Engineer Intern at Cloud department at Viettel
-- 💬 Learning more about Caching, Scalable Web Systems, Distributed Systems, Modern Architecture, Serverless Architecture
+- 🌱 Proficient in Backend Development, Databases.
+- 🤔 Worked as Software Engineer Intern at Cloud department at Viettel, Backend Software Engineer Intern at Shopback.
+- 💬 Interested in Computer Architecture, High-performance Computing, Distributed Systems.
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
