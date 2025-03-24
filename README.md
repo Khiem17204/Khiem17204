@@ -1,12 +1,11 @@
-### Hi there I'am Khiem Le 👋
+### Hi there I'am Khiem(Kai) Le 👋
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔍 Looking for Summer 2025 Software Engineer Internship
 - 🎓 Studying Computer Science and Mathematics at University of Massachusetts Amherst
 - 🌱 Proficient in Backend Development, Databases.
-- 🤔 Worked as Software Engineer Intern at Cloud department at Viettel, Backend Software Engineer Intern at Shopback.
-- 💬 Interested in Computer Architecture, High-performance Computing, Distributed Systems.
+- 🤔 Interned at Viettel, Shopback, and Meta.
+- 💬 Interested in Infra, Fintech.
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
