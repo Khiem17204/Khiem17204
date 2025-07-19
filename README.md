@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 Studying Computer Science and Mathematics at University of Massachusetts Amherst
-- 🌱 Proficient in Backend Development, Databases.
+- 🌱 Proficient in drinking coffee and code.
 - 🤔 Interned at Viettel, Shopback, and Meta.
-- 💬 Interested in Infra, Fintech.
+- 💬 Interested in Infrastructure, Fintech.
+- Looking for Full-time role.
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
