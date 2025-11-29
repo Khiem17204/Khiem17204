@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🌱 Proficient in drinking coffee and code.
-- 🤔 Interned at Viettel, Shopback, and Meta.
+- 🤔 Interned at Viettel, Shopback, and Meta, and worked full-time at ???
 - 💬 Interested in Infrastructure, Fintech.
-- Looking for Full-time role.
+
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
